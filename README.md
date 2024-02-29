@@ -1,5 +1,5 @@
 # WebPerfomanceAnalytics
-This repository optimized SQL Queries to analyze webpages, landing pages, website perfomance, customer conversion rate, product, cross-product, and portfolio management.
+This repository optimized SQL Queries to analyze webpages, landing pages, website perfomance, customer conversion rate, product, cross-product, portfolio management, user engagement, etc
 
 ## 1. Preinstalled Tools
 - SQLWorkbench
@@ -11,7 +11,7 @@ This repository optimized SQL Queries to analyze webpages, landing pages, websit
 ## 2. Project Overview
 The project consists of the following components:
 - Database: Design file (zipped file)
-- Queries file: WebsiteAnalysis, Product Analysis
+- Queries file: WebsiteAnalysis, Product Analysis, User Analysis
 - Final Report
 
 ## 3. Replication Results
